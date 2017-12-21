@@ -19,7 +19,7 @@ allprojects {
 }
 
 #Kama unanipenda kaseme kwetu 
-
+#KAMA UNANIPENDA MSTRI WA PILI HUO 
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
